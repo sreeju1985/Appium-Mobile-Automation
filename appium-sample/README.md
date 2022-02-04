@@ -1,0 +1,2 @@
+# Appium project
+Sample code to use Appium library on a Native app, Webapp. Using Contexts in Appium, hybrid test functionality is achieved and used to handle Google welcome screen in an Android device (WebAppTest.java)
